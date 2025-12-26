@@ -308,8 +308,8 @@ pub const FlexItem = struct {
 };
 
 pub const Point = struct {
-    row: u16,
-    col: u16,
+    row: i16,
+    col: i16,
 };
 
 pub const RelativePoint = struct {
