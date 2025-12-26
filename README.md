@@ -50,7 +50,7 @@ want to use for typical TUI applications.
 ### Add libvaxis to your project
 
 ```console
-zig fetch --save git+https://github.com/rockorager/libvaxis.git
+zig fetch --save git+https://github.com/chachacollins/libvaxis.git
 ```
 Add this to your build.zig
 
